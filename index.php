@@ -1,3 +1,3 @@
 <?php
-    echo 'Xin chào PHP 111!';
+    echo 'Xin chào <span style="color: red;">PHP</span>!';
 ?>
